@@ -1,20 +1,22 @@
 <h1>Neural Networks: Zero to Hero by Andrej Karpathy</h1>
 
-<h2>This is my timeline for diving deep into the domain of NLP</h2>
+<h2>Timeline for diving deep into the domain of NLP</h2>
 <br />
 <br />
 <br />
 
 <table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
-  <thead>
-    <tr>
-      <th style="width: 25%; border: 1px solid #999; padding: 8px; text-align: left;">Module</th>
-      <th style="width: 25%; border: 1px solid #999; padding: 8px; text-align: left;">Sub-Module</th>
-      <th style="width: 25%; border: 1px solid #999; padding: 8px; text-align: left;">Info</th>
-      <th style="width: 25%; border: 1px solid #999; padding: 8px; text-align: left;">Timeline</th>
-    </tr>
-  </thead>
-  <tbody>
+<thead>
+
+<tr>
+<th style="width: 25%; border: 1px solid #999; padding: 8px; text-align: left;">Module</th>
+<th style="width: 25%; border: 1px solid #999; padding: 8px; text-align: left;">Sub-Module</th>
+<th style="width: 25%; border: 1px solid #999; padding: 8px; text-align: left;">Info</th>
+<th style="width: 25%; border: 1px solid #999; padding: 8px; text-align: left;">Timeline</th>
+</tr>
+</thead>
+
+<tbody>
     <tr>
       <td rowspan="2" style="border: 1px solid #999; padding: 8px; vertical-align: top;">Micrograd</td>
       <td style="border: 1px solid #999; padding: 8px; vertical-align: top;">Neural-network Intro</td>
@@ -81,7 +83,7 @@
     <tr>
       <td style="border: 1px solid #999; padding: 8px; vertical-align: top;">GPT Tokenizer</td>
       <td style="border: 1px solid #999; padding: 8px; vertical-align: top;"></td>
-      <td style="border: 1px solid #999; padding: 8px; vertical-align: top;"></td>
+      <td style="border: 1px solid #999; padding: 8px; vertical-align: top;">Important. After that I will be able to code my form of Tokenizer: "Idea as a Token".</td>
       <td style="border: 1px solid #999; padding: 8px; vertical-align: top;">3</td>
     </tr>
     <tr>
@@ -92,3 +94,14 @@
     </tr>
   </tbody>
 </table>
+
+**Diary:**
+
+* I have learned the Stats part of makemore part1.
+* Given my experience in deep-learning; lets head straight to GPT.
+* For motivation I will be watching first `State of GPT`.
+* So my current pipeline will be:
+  * `State of GPT`
+  * `GPT`
+  * `GPT Tokenizer`
+  * `Reproduce GPT2`
