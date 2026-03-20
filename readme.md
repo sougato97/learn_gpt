@@ -26,7 +26,7 @@
     <tr>
       <td style="border: 1px solid #999; padding: 8px; vertical-align: top;">Backprop</td>
       <td style="border: 1px solid #999; padding: 8px; vertical-align: top;"></td>
-      <td style="border: 1px solid #999; padding: 8px; vertical-align: top;"></td>
+      <td style="border: 1px solid #999; padding: 8px; vertical-align: top;">TODO</td>
     </tr>
     <tr>
       <td rowspan="2" style="border: 1px solid #999; padding: 8px; vertical-align: top;">Makemore Part 1</td>
@@ -36,8 +36,8 @@
     </tr>
     <tr>
       <td style="border: 1px solid #999; padding: 8px; vertical-align: top;">Neural-network Intro</td>
-      <td style="border: 1px solid #999; padding: 8px; vertical-align: top;">Intro to the neurons for char prediction</td>
-      <td style="border: 1px solid #999; padding: 8px; vertical-align: top;">2</td>
+      <td style="border: 1px solid #999; padding: 8px; vertical-align: top;">Intro to bigrams using 1 layer simple token neural-networks</td>
+      <td style="border: 1px solid #999; padding: 8px; vertical-align: top;">done</td>
     </tr>
     <tr>
       <td style="border: 1px solid #999; padding: 8px; vertical-align: top;">Makemore Part 2</td>
